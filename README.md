@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ...**my coding skills.**
 - 🌱 I’m currently learning ...**Python, and Flutter Development**
-- 💬 Ask me about ...**C, C++, Python(OOPs).**
+- 💬 Ask me about ...**C, C++, Python(OOPs and Tkinter).**
 - 📫 How to reach me: ... **https://chiragjain123.github.io/Profile/**
 - ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Think Innovative 💡 Do Creative 🙇 Work Hard 🪓 and Live the Life to the Fullest🤩**
