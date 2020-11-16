@@ -1,18 +1,16 @@
-<a href="https://icons8.com/icon/40670/c-programming"></a>
-<a href="https://icons8.com/icon/40669/c++"></a>
-<a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"></a>
 <a href="https://icons8.com/icon/13441/python"></a>
-<a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter"></a>
+<a href="https://icons8.com/icon/20909/html-5"></a>
+<a href="https://icons8.com/icon/21278/css3"></a>
 <h1 align="center">Hi 👋, I'm Chirag Jain</h1>
 <h3 align="center"> A BIG LOVER OF CODING AND WANTS TO EXPLORE EACH AND EVERY THING IN THE FIELD OF TECH</h3>
 
 - 🔭 I’m currently working on ...**my coding skills.**
-- 🌱 I’m currently learning ...**Python, and Flutter Development**
-- 💬 Ask me about ...**C, C++, Python(OOPs and Tkinter).**
+- 🌱 I’m currently learning ...**CSS and Javascript**
+- 💬 Ask me about ...**HTML, CSS, Python(OOPs and Tkinter).**
 - 📫 How to reach me: ... **https://chiragjain123.github.io/Profile/**
 - ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Think Innovative 💡 Do Creative 🙇 Work Hard 🪓 and Live the Life to the Fullest🤩**
-<p align="center"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" width="40" alt="C"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" width="40" alt="C++"/><img src="https://img.icons8.com/color/48/000000/dart.png" height="40" width="40" alt="Dart"/><img src="https://img.icons8.com/color/48/000000/flutter.png" height="40" width="40" alt="Flutter"/><img src="https://img.icons8.com/color/48/000000/python.png" height="40" width="40" alt="Python"/></p>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/python.png" height="40" width="40" alt="Python"/><img src="https://img.icons8.com/color/48/000000/html-5.png" height="40" width="40" alt="HTML"/><img src="https://img.icons8.com/color/48/000000/css3.png" height="40" width="40" alt="HTML"/></p>
 <br>
 <br>
 <p align="center">
