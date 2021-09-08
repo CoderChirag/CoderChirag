@@ -10,6 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
+![profile-views](https://komarev.com/ghpvc/?username=coderchirag&color=blueviolet) 
 ![age](https://img.shields.io/badge/age-19-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
 ![living](https://img.shields.io/badge/living-Ambala-3c9) 
