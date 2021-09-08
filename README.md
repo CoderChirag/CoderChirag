@@ -1,6 +1,4 @@
-<a href="https://icons8.com/icon/13441/python"></a>
-<a href="https://icons8.com/icon/20909/html-5"></a>
-<a href="https://icons8.com/icon/21278/css3"></a>
+<a href="https://icons8.com/icon/n9d0Hm43JCPK/link"></a>
 <div align="center" style="width: 100%;">
   <table>
     <tr><th><a href="https://skyline.github.com/coderchirag/2020"><img width="200%" src="./githubSkyline.gif"></a></th></tr>
@@ -12,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
-![profile-views](https://komarev.com/ghpvc/?username=coderchirag&color=blueviolet) 
 ![age](https://img.shields.io/badge/age-19-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
 ![living](https://img.shields.io/badge/living-Ambala-3c9) 
@@ -25,7 +22,8 @@
 
 - 🔭 I’m currently working on ...**MERN Stack**
 - 🌱 I’m currently learning ...**Data Structures and Algorithms**
-- 💬 Ask me about ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), Python(with OOPs and Tkinter), Java, C++.**
+- 💬 Ask me about ...**Under the Hood working of JavaScript, Concepts like Event Loop and Callback & Microtasks Queues, Internal working of `new` keyword in Js and Object and Prototypes in JS, Closures and Hoisting, Asynchronous Js and Callbacks & Promises in JS**
+- 👨‍💻 My Skills ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), Python(with OOPs and Tkinter), Java, C++.**
 - 📫 How to reach me: ... **https://www.coderchirag.tech**
 - ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Eat🍴.. &nbsp;&nbsp;Sleep🛌.. &nbsp;&nbsp;Code👨‍💻.. &nbsp;&nbsp;Repeat🔁.**
@@ -64,16 +62,34 @@
 </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </a><a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
-<!-- <img src="https://img.icons8.com/color/48/000000/python.png" height="40" width="40" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" height="40" width="40" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" height="40" width="40" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" height="40" width="40" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" height="40" width="40" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/ height="40" width="40" alt="HTML"><img src="https://img.icons8.com/color/48/000000/react-native.png" height="40" width="40" alt="HTML"/> -->
 </p>
-  
+
+## 📈 **My Github Stats**
 <p align="center">
-<a href="https://www.linkedin.com/in/chirag-jain-9614481b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ChiragJain" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100014606834040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ChiragJain" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/plethora_of_cuteness_chirag/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ChiragJain" height="20" width="20" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderchirag&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Coder Chirag :: Profile Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchirag&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Coder Chirag :: Top Langs" />
+<img width="45%" height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderchirag&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
+</p>
+
+## 💫 Organisations I am Working in..
+- <img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-icon.png" width="40" height="40" alt="chitkara_logo"> Chitkara University - Student
+- <img src="./ieilogo.png" width="40" height="40" alt="iei_logo"> IE(I) Society, CUIET - Web Master
+- <img src="https://lh3.googleusercontent.com/proxy/0V38AMdcoe_BCLPVt_Rf4ptA0WEha0EVMUpJSI92NAjxbuKj5ZmbZhY7158m6ickRvjwdpe6-okc-6H_6g" width="40" height="40" alt="gdsc_logo"> Google Developer Student Club (GDSC), CUIET - Web Executive
+- <img src="https://ieee.chitkara.edu.in/img/ieee.png" width="50" height="40" alt="ieee_logo"> IEEE Society, CUIET - Web Executive
+- <img src="https://chitkara.acm.org/wp-content/uploads/2020/11/acmLogo_sample_newfilled11-300x283.png" width="40" height="40" alt="acm_logo"> ACM Society, CUIET - Web Executive
+- <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGgdNCV1fxVsA/company-logo_200_200/0/1605982404217?e=2159024400&v=beta&t=mPlHZLShgW_CqqrKtvhABvbTtOLbax97VAhnNYFzm2s" width="40" height="40" alt="acm_logo"> Codechef Society, CUIET - Competitive Programming Executive
+  
+## <img src="https://img.icons8.com/fluency/48/000000/link.png" width="40" height="40"/> Connect with me
+<p align="center">
+<a href="https://www.coderchirag.tech" target="_blank"><img src="https://img.shields.io/badge/Website-292D32?style=for-the-badge&logo=internetexplorer&logoColor=33FF00"></a> 
+<a href="https://api.whatsapp.com/send?phone=+918901789079&amp;text=Hi there! :)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+<a href="https://t.me/CoderChirag" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="mailto:jain.chirag0174@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff1744?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.instagram.com/coder_chirag_jain" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/Chirag_Jain847" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/chirag-jain-9614481b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<br>
+<a href="https://github.com/CoderChirag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://www.hackerrank.com/chirag0174_be20" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
+<a href="https://leetcode.com/coderchirag/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </p>
