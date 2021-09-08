@@ -1,7 +1,22 @@
 <a href="https://icons8.com/icon/13441/python"></a>
 <a href="https://icons8.com/icon/20909/html-5"></a>
 <a href="https://icons8.com/icon/21278/css3"></a>
-<h1 align="center">Hi 👋, I'm Chirag Jain</h1>
+<div align="center" style="width: 100%;">
+  <table>
+    <tr><th><img width="200%" src="./chiragJain.gif"></th></tr>
+  </table>
+</div>
+
+<div align="center">
+<h1>Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">, I'm Chirag - aka [<a href="https://www.coderchirag.tech">CoderChirag</a>]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
+</div>
+
+<!-- <div align="center"><table>
+  <tr><th><a href="https://skyline.github.com/coderchirag/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
+</table></div> -->
+
 <h3 align="center"> A BIG LOVER OF CODING AND WANTS TO EXPLORE EACH AND EVERY THING IN THE FIELD OF TECH</h3>
 
 - 🔭 I’m currently working on ...**Web Development**
