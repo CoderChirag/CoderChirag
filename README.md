@@ -17,12 +17,12 @@
 
 ## 🙋‍♂️ About Me
 <center>
-<h3>Big Tech Freak || Web Master IE(I) Society, CUIET || Web Team Google Developer Students Club (GDSC), CUIET || 5⭐Hackerrank || WebDev Intern at Eracost || MERN Stack Developer || Javascript Lover ❤ || Web Executive IEEE CUIET || Web Executive ACM CUIET || Web Executive Codechef CUIET</h3>
+<h3>Tech Savant || Vice Chair GeeksForGeeks Student Chapter CUIET || Web Head IE(I) Society, CUIET || Web Lead Google Developer Students Club (GDSC), CUIET || 5⭐Hackerrank || MERN Stack Developer || Javascript Lover ❤ </h3>
 </center>
 <br>
 
 - 🔭 I’m currently working on ...**MERN Stack**
-- 🌱 I’m currently learning ...**Data Structures and Algorithms**
+- 🌱 I’m currently learning ...**DevOps**
 - 💬 Ask me about ...**Under the Hood working of JavaScript, Concepts like Event Loop and Callback & Microtasks Queues, Internal working of `new` keyword in Js and Object and Prototypes in JS, Closures and Hoisting, Asynchronous Js and Callbacks & Promises in JS**
 - 👨‍💻 My Skills ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), Python(with OOPs and Tkinter), Java, C++.**
 - 📫 How to reach me: ... **https://www.coderchirag.tech**
