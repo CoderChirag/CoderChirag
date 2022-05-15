@@ -77,13 +77,10 @@
   
 </div>
 
-## 💫 Organisations I am Working in..
-- <img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-icon.png" width="40" height="40" alt="chitkara_logo"> Chitkara University - Student
-- <img src="./ieilogo.png" width="40" height="40" alt="iei_logo"> IE(I) Society, CUIET - Web Master
-- <img src="https://lh3.googleusercontent.com/proxy/0V38AMdcoe_BCLPVt_Rf4ptA0WEha0EVMUpJSI92NAjxbuKj5ZmbZhY7158m6ickRvjwdpe6-okc-6H_6g" width="40" height="40" alt="gdsc_logo"> Google Developer Student Club (GDSC), CUIET - Web Executive
-- <img src="https://ieee.chitkara.edu.in/img/ieee.png" width="50" height="40" alt="ieee_logo"> IEEE Society, CUIET - Web Executive
-- <img src="https://chitkara.acm.org/wp-content/uploads/2020/11/acmLogo_sample_newfilled11-300x283.png" width="40" height="40" alt="acm_logo"> ACM Society, CUIET - Web Executive
-- <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGgdNCV1fxVsA/company-logo_200_200/0/1605982404217?e=2159024400&v=beta&t=mPlHZLShgW_CqqrKtvhABvbTtOLbax97VAhnNYFzm2s" width="40" height="40" alt="acm_logo"> Codechef Society, CUIET - Competitive Programming Executive
+## 💫 Organizations I am Working in..
+- <img src="./gfg_cuiet.png" width="60" height="60" alt="gfg_cuiet"> GeeksForGeeks Student Chapter, CUIET - Vice Chair
+- <img src="./ieilogo.png" width="40" height="40" alt="iei_logo"> IE(I) Society, CUIET - Web Head
+- <img src="./gdsc_cuiet" width="40" height="40" alt="gdsc_logo"> Google Developer Student Club (GDSC), CUIET - Web Lead & Core Member
   
 ## <img src="https://img.icons8.com/fluency/48/000000/link.png" width="40" height="40"/> Connect with me
 <p align="center">
