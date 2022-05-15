@@ -69,8 +69,13 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderchirag&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Coder Chirag :: Profile Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchirag&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Coder Chirag :: Top Langs" />
-<img width="45%" height="180em" align="center" src="https://my-github-stats.herokuapp.com/?user=coderchirag&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
 </p>
+
+<div align="center">
+  
+[![Coder Chirag :: Streak](http://github-readme-streak-stats.herokuapp.com?user=coderchirag&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
 ## 💫 Organisations I am Working in..
 - <img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-icon.png" width="40" height="40" alt="chitkara_logo"> Chitkara University - Student
