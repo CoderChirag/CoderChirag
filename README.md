@@ -11,7 +11,7 @@
 </div>
 
 ![profile-views](https://komarev.com/ghpvc/?username=coderchirag&color=blueviolet) 
-![age](https://img.shields.io/badge/age-19-blue) 
+![age](https://img.shields.io/badge/age-20-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
 ![living](https://img.shields.io/badge/living-Ambala-3c9) 
 
@@ -80,7 +80,7 @@
 ## 💫 Organizations I am Working in..
 - <img src="./gfg_cuiet.png" width="60" height="60" alt="gfg_cuiet"> GeeksForGeeks Student Chapter, CUIET - Vice Chair
 - <img src="./ieilogo.png" width="40" height="40" alt="iei_logo"> IE(I) Society, CUIET - Web Head
-- <img src="./gdsc_cuiet" width="40" height="40" alt="gdsc_logo"> Google Developer Student Club (GDSC), CUIET - Web Lead & Core Member
+- <img src="./gdsc_cuiet.png" width="40" height="40" alt="gdsc_logo"> Google Developer Student Club (GDSC), CUIET - Web Lead & Core Member
   
 ## <img src="https://img.icons8.com/fluency/48/000000/link.png" width="40" height="40"/> Connect with me
 <p align="center">
