@@ -21,10 +21,10 @@
 </center>
 <br>
 
-- 🔭 I’m currently working on ...**MERN Stack**
+- 🔭 I’m currently working on ...**Node.js and backend development**
 - 🌱 I’m currently learning ...**DevOps**
 - 💬 Ask me about ...**Under the Hood working of JavaScript, Concepts like Event Loop and Callback & Microtasks Queues, Internal working of `new` keyword in Js and Object and Prototypes in JS, Closures and Hoisting, Asynchronous Js and Callbacks & Promises in JS**
-- 👨‍💻 My Skills ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), Python(with OOPs and Tkinter), Java, C++.**
+- 👨‍💻 My Skills ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), C++.**
 - 📫 How to reach me: ... **https://www.coderchirag.tech**
 - ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Eat🍴.. &nbsp;&nbsp;Sleep🛌.. &nbsp;&nbsp;Code👨‍💻.. &nbsp;&nbsp;Repeat🔁.**
