@@ -31,9 +31,6 @@
 
 <br>
 <br>
-<div align="center"><table>
-  <tr><th><img width="1000px" src="./chiragJain.gif"></th></tr>
-</table></div>
 
 ## 🚀 Tools and Technologies:
 <p align="center">
