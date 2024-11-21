@@ -7,26 +7,25 @@
 <div align="center">
 <h1>Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="50px">, I'm Chirag Jain - aka [<a href="https://www.coderchirag.tech">CoderChirag</a>]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Associate+Software+Developement+Engineer;Bajaj+Finserv+Health+Ltd.;)](https://git.io/typing-svg)
 </div>
 
 ![profile-views](https://komarev.com/ghpvc/?username=coderchirag&color=blueviolet) 
-![age](https://img.shields.io/badge/age-20-blue) 
+![age](https://img.shields.io/badge/age-22-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
-![living](https://img.shields.io/badge/living-Ambala-3c9) 
+![living](https://img.shields.io/badge/living-Pune-3c9) 
 
 ## 🙋‍♂️ About Me
 <center>
-<h3>Tech Savant || Vice Chair GeeksForGeeks Student Chapter CUIET || Web Head IE(I) Society, CUIET || Web Lead Google Developer Students Club (GDSC), CUIET || 5⭐Hackerrank || MERN Stack Developer || Javascript Lover ❤ </h3>
+<h3>ASDE@Bajaj Finserv Health || Former Vice Chair GeeksForGeeks CUIET & Web Lead Google Developer Students Club || Fullstack Developer </h3>
 </center>
 <br>
 
-- 🔭 I’m currently working on ...**Node.js and backend development**
-- 🌱 I’m currently learning ...**DevOps**
-- 💬 Ask me about ...**Under the Hood working of JavaScript, Concepts like Event Loop and Callback & Microtasks Queues, Internal working of `new` keyword in Js and Object and Prototypes in JS, Closures and Hoisting, Asynchronous Js and Callbacks & Promises in JS**
-- 👨‍💻 My Skills ...**HTML, CSS,  Javascript, NodeJs, ExpressJs, MongoDB, ReactJs (MERN Stack), C++.**
-- 📫 How to reach me: ... **https://www.coderchirag.tech**
-- ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
+- 🔭 I’m currently working on ...**Typescript, Nodejs, Nestjs, Kafka, Kubernetes, Docker, Microsoft Azure**
+- 🌱 I’m currently learning ...**Golang**
+- 💬 Ask me about ...**Under the Hood working of JavaScript, Software Design Principles**
+- 📖 I'm currently reading ...**Clean Architecture by Robert C. Martin, Designing Data-Intensive Applications by Martin Klepmann**
+- 📫 How to reach me: ... **https://www.coderchirag.tech, jain.chirag0174@gmail.com**
 - ⚡ My thought: ... **Eat🍴.. &nbsp;&nbsp;Sleep🛌.. &nbsp;&nbsp;Code👨‍💻.. &nbsp;&nbsp;Repeat🔁.**
 
 <br>
